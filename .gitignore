@@ -1,0 +1,6 @@
+.venv/
+# ignore all .log files
+*.log
+
+# ignore all files in the build directory
+/build/

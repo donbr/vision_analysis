@@ -1,0 +1,27 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.77
+---- System ----
+File Name                       : wolf.png
+Directory                       : C:/Users/<user>/Downloads
+File Size                       : 1237 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2024:02:15 13:53:39-08:00
+File Access Date/Time           : 2024:02:20 16:03:26-08:00
+File Creation Date/Time         : 2024:02:15 13:53:38-08:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 768
+Image Height                    : 1024
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Parameters                      : Intricate photograph of a creature with wolf and human features sitting on the deck of a quaint, weathered cabin in a lush wilderness. The scene is suffused with natural light, highlighted by the creature's calm and curious expression. Its human-like hands and arms are the defining elements that blur the lines between the wildness of nature and the comfort of home. This image merges surrealism and realism while exploring the harmony between the wild and the domestic...Medium: Photography.Subject: Fantastical werewolf-like creature.Scene: Exterior, rustic cabin in a natural wilderness setting.Style: Realistic depiction of a fantastical subject.Artistic Influence or Movement: Elements of surrealism.Color: Muted color palette with grays, browns, and greens.Lighting: Natural, overcast lighting.Anatomy and Features: Combination of wolf and human anatomical features.Details and Transformations: Human-like arms and hands on a wolf-like creature.Composition and Symbolism: Use of rule of thirds, harmony between the wild and domestic.Additional details: The creature's expression is calm, adding a unique aspect to the typically ferocious portrayal of werewolf-like creatures..Negative prompt: worst quality, low quality, watermark, text, nude, deformed, noisy, low poly, disfigured, nude.Steps: 9, Sampler: DPM++ 2S a Karras, CFG scale: 2.5, Seed: 1169062797, Size: 768x1024, Model hash: 5c1defabd4, Model: rmsdxlHybridTurboXL_scorpiusBeta, Clip skip: 2, Discard penultimate sigma: True, Pad conds: True, Version: v1.7.0, Hashes: {"model": "5c1defabd4"}
+---- Composite ----
+Image Size                      : 768x1024
+Megapixels                      : 0.786

@@ -1,0 +1,1 @@
+{'PIL': {'width': 612, 'height': 407, 'format': 'JPEG', 'exif': {33432: 'Holly Kuchera', 282: 300.0, 283: 300.0, 270: 'Grey Wolf (Canis lupus) Portrait - captive animal'}}}
